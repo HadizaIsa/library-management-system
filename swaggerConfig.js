@@ -23,7 +23,7 @@ const swaggerOptions = {
         servers: [
             {
                 url: process.env.NODE_ENV === "production" 
-                    ? "https://your-heroku-app.herokuapp.com" 
+                    ? "https://library-management-system-8rzk.onrender.com" 
                     : "http://localhost:3000",
             },
         ],
