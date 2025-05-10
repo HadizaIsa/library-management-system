@@ -10,11 +10,10 @@ const swaggerOptions = {
             This API allows users to manage book borrowing and return in a library system.
 
             To run the application locally:
-            1. Clone the repository: \`git clone <repository_url>\`
+            1. Clone the repository: \`git clone https://github.com/HadizaIsa/library-management-system.git\`
             2. Install dependencies: \`npm install\`
             3. Create a .env file with the following keys:
                - \`PORT=<your_port>\`
-               - \`MONGO_URI=<your_mongodb_connection_string>\`
             4. Start the server: \`npm start\`
             5. Access the API documentation: [http://localhost:<your_port>/api-docs](http://localhost:<your_port>/api-docs)
         `,
